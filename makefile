@@ -1,0 +1,1 @@
+gcc -o program main.c linear_equation_solver.c
